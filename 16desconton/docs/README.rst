@@ -2,7 +2,7 @@
 Dulcería El Desconton
 =====================
 
-.. image:: docs/img/logo.png
+.. image:: img/logo.png
   :width: 250px
 	   
 ***Para tu antojo, negocio o fiestón***
